@@ -1,0 +1,16 @@
+C:\Users\Sharl\Desktop\Tech Writer\April 2022\4. How to Add Graphics to a C# Windows Form Application\GraphicsApps\GraphicsApp\obj\Debug\netcoreapp3.1\GraphicsApp.csproj.AssemblyReference.cache
+C:\Users\Sharl\Desktop\Tech Writer\April 2022\4. How to Add Graphics to a C# Windows Form Application\GraphicsApps\GraphicsApp\obj\Debug\netcoreapp3.1\GraphicsApp.Form1.resources
+C:\Users\Sharl\Desktop\Tech Writer\April 2022\4. How to Add Graphics to a C# Windows Form Application\GraphicsApps\GraphicsApp\obj\Debug\netcoreapp3.1\GraphicsApp.csproj.GenerateResource.cache
+C:\Users\Sharl\Desktop\Tech Writer\April 2022\4. How to Add Graphics to a C# Windows Form Application\GraphicsApps\GraphicsApp\obj\Debug\netcoreapp3.1\GraphicsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sharl\Desktop\Tech Writer\April 2022\4. How to Add Graphics to a C# Windows Form Application\GraphicsApps\GraphicsApp\obj\Debug\netcoreapp3.1\GraphicsApp.AssemblyInfoInputs.cache
+C:\Users\Sharl\Desktop\Tech Writer\April 2022\4. How to Add Graphics to a C# Windows Form Application\GraphicsApps\GraphicsApp\obj\Debug\netcoreapp3.1\GraphicsApp.AssemblyInfo.cs
+C:\Users\Sharl\Desktop\Tech Writer\April 2022\4. How to Add Graphics to a C# Windows Form Application\GraphicsApps\GraphicsApp\obj\Debug\netcoreapp3.1\GraphicsApp.csproj.CoreCompileInputs.cache
+C:\Users\Sharl\Desktop\Tech Writer\April 2022\4. How to Add Graphics to a C# Windows Form Application\GraphicsApps\GraphicsApp\bin\Debug\netcoreapp3.1\GraphicsApp.exe
+C:\Users\Sharl\Desktop\Tech Writer\April 2022\4. How to Add Graphics to a C# Windows Form Application\GraphicsApps\GraphicsApp\bin\Debug\netcoreapp3.1\GraphicsApp.deps.json
+C:\Users\Sharl\Desktop\Tech Writer\April 2022\4. How to Add Graphics to a C# Windows Form Application\GraphicsApps\GraphicsApp\bin\Debug\netcoreapp3.1\GraphicsApp.runtimeconfig.json
+C:\Users\Sharl\Desktop\Tech Writer\April 2022\4. How to Add Graphics to a C# Windows Form Application\GraphicsApps\GraphicsApp\bin\Debug\netcoreapp3.1\GraphicsApp.runtimeconfig.dev.json
+C:\Users\Sharl\Desktop\Tech Writer\April 2022\4. How to Add Graphics to a C# Windows Form Application\GraphicsApps\GraphicsApp\bin\Debug\netcoreapp3.1\GraphicsApp.dll
+C:\Users\Sharl\Desktop\Tech Writer\April 2022\4. How to Add Graphics to a C# Windows Form Application\GraphicsApps\GraphicsApp\bin\Debug\netcoreapp3.1\GraphicsApp.pdb
+C:\Users\Sharl\Desktop\Tech Writer\April 2022\4. How to Add Graphics to a C# Windows Form Application\GraphicsApps\GraphicsApp\obj\Debug\netcoreapp3.1\GraphicsApp.dll
+C:\Users\Sharl\Desktop\Tech Writer\April 2022\4. How to Add Graphics to a C# Windows Form Application\GraphicsApps\GraphicsApp\obj\Debug\netcoreapp3.1\GraphicsApp.pdb
+C:\Users\Sharl\Desktop\Tech Writer\April 2022\4. How to Add Graphics to a C# Windows Form Application\GraphicsApps\GraphicsApp\obj\Debug\netcoreapp3.1\GraphicsApp.genruntimeconfig.cache
