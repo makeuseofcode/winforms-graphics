@@ -6,6 +6,13 @@ This is an example Winforms project to show how to add graphics such as lines, s
 
 This project was created as part of a tutorial by MUO on How to Add Graphics to a C# Windows Form Application.
 
+## Requirements
+
+In order to open and run the solution, you will need:
+* Visual Studio (2017, 2019+)
+* The .NET desktop development workload (for Winforms to work). 
+	* If you do not have this, you will need to open Visual Studio Installer, select the above package, and then update Visual Studio.
+
 ## To Run
 
 ### From Visual Studio
