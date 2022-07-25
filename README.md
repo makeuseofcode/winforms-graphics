@@ -4,7 +4,8 @@
 
 This is an example Winforms project to show how to add graphics such as lines, shapes, and images onto a Winforms application.
 
-This project was created as part of a tutorial by MUO on How to Add Graphics to a C# Windows Form Application.
+This project was created for the [How to Add Graphics to a C# Windows Form Application](https://www.makeuseof.com/c-sharp-windows-form-graphics/) tutorial.
+
 
 ## Requirements
 
